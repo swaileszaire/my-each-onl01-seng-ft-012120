@@ -1,5 +1,5 @@
 def my_each (november)
 november = ([beans, rice, meat, stuffing]) do |i|
-puts |i| 
+  while array -= 4 puts |i|
 end
 
