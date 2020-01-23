@@ -1,6 +1,5 @@
 def my_each (november)
-november = [beans, rice, meat, stuffing].yield do |i|
-count = 1
-while count -= 4 puts |i| 
+november = ([beans, rice, meat, stuffing]) do |i|
+puts |i| 
 end
-end
+
